@@ -1,10 +1,11 @@
 # Coffee Sales Analysis
 ## Table of content
 - [Introduction](#Introduction)
+- [Problem Statement](#Problem Statement)
 ## Introduction
 ##### John’s Coffee is a new coffee chain is seeking to expand in a new location, the company wants to know factors that affects its sales and profitability. The company data has been given to you, it’s up to you as the data analyst to analyze the data and make informed decision to present to the stakeholders.
 
-- [Problem Statement](#Problem Statement)
+
 - ## Problem Statement
 ##### Johns Coffee wants to know the factors that affects its sales and profitability.
 
