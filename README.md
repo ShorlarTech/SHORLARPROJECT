@@ -4,6 +4,8 @@
 - [Problem Statement](#Problem-Statement)
 - [Data Source and Dictionary](#Data-Source-and-Dictionary)
 - [ Key Attributes](#Key-Attributes)
+- [Data Cleaning](#Data-Cleaning)
+- [Analysis](#Analysis)
 ## Introduction
 ##### John’s Coffee is a new coffee chain is seeking to expand in a new location, the company wants to know factors that affects its sales and profitability. The company data has been given to you, it’s up to you as the data analyst to analyze the data and make informed decision to present to the stakeholders.
 
@@ -14,7 +16,7 @@
 
 ## Data Source and Dictionary
 ##### Kaggle.com
-- [ Key Attributes:](# Key Attributes:)
+
 - ## Key Attributes:
 ##### 1.Area Code: A unique identifier for different geographical areas or regions where the coffee chain operates.
 ##### 2.COGS (Cost of Goods Sold): The total cost incurred by the coffee chain in producing or purchasing the products it sells.
@@ -33,12 +35,12 @@
 ##### 15. Product_type
 ##### 16. Product
 
-- [Data Cleaning:](#Data Cleaning:)
+
 - ## Data Cleaning:
 ##### 1.	The data did not contain duplicate values.
 ##### 2.	The data did not blanks.
 
-- [Analysis:](#Analysis:)
+
 - ## Analysis:
 ##### These are the following questions that guide the analysis.
 ##### 1.	How does the cost of goods sold affect the sales?
